@@ -1,7 +1,8 @@
 # yoga_app
 
 A new Flutter project.
-
+-demo of the APP
+-https://drive.google.com/file/d/13kbDcLUON3h7dWEkqcxldYkFlxn9uPSa/view?usp=sharing
 ## Getting Started
 
 This project is a starting point for a Flutter application.
